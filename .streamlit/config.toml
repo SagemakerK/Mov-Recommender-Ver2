@@ -1,0 +1,15 @@
+[theme]
+# Primary accent color for the interactive elements.
+primaryColor = "#C06320"
+
+# Background color for the main content area.
+backgroundColor = "#965B32"
+
+# For sidebar
+secondaryBackgroundColor = "#2B3F41"
+
+# Text color for the app (set to black)
+textColor = "rgb(0, 0, 0)"
+
+[client]
+toolbarMode = "minimal"
