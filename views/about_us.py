@@ -33,7 +33,7 @@ with col2:
 col1, col2 = st.columns([1, 3])
 
 with col1:
-    st.image("Assets\Abhi.png", width=150)
+    st.image("Assets/Abhi.png", width=150)
 
 with col2:
     st.title("Abhishek Menon")
@@ -46,7 +46,7 @@ with col2:
 col1, col2 = st.columns([1, 3])
 
 with col1:
-    st.image("Assets\kailas.png", width=150)
+    st.image("Assets/kailas.png", width=150)
 
 with col2:
     st.title("Kailas Balakrishnan")
